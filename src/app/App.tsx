@@ -45,6 +45,7 @@ function App(props: PropsType) {
             <CircularProgress/>
         </div>
     }
+
     return (
             <div className="App">
                 <ErrorSnackbar/>
